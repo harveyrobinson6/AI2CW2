@@ -1,0 +1,11 @@
+# Ignore raw dataset files
+2022.csv
+2023.csv
+2024.csv
+2025.csv
+
+# Ignore processed data
+processed_journeys.csv
+
+# Ignore station reference file
+StationNameAndCode.csv
