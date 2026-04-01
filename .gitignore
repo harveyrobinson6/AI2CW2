@@ -9,3 +9,12 @@ processed_journeys.csv
 
 # Ignore station reference file
 StationNameAndCode.csv
+
+# Ignore segments data
+train_segments.csv
+
+# Ignore segmented model
+segment_delay_rf_model.pkl
+
+# Ignore encoder
+encoder.pkl
